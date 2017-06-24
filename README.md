@@ -1,0 +1,2 @@
+Code for [Groping Machine](http://playdo.io/projects/groping-machine.html), created at the [School of Machines, Making & Make-Believe](http://schoolofma.org/), "See or be seen", summer 2016.
+Made with openFramworks and openCV
